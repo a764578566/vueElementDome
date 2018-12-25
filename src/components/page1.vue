@@ -5,7 +5,7 @@
       <my-component-b></my-component-b>
     </div>
     <div>
-
+      <my-component-c></my-component-c>
       <my-component-d></my-component-d>
     </div>
   </div>
